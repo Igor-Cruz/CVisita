@@ -1,0 +1,27 @@
+body{
+	background-image:  url(../IMAGES/t1.jpg);
+	background-repeat: no-repeat;
+	background-size: 400px 200px ;
+}
+
+
+.titulo1{
+	text-align: left;
+	color: white;
+}
+
+li{
+	color: white;
+}
+
+.logo1{
+	list-style-image: url(../IMAGES/Insta.png);
+} 
+
+.logo2{
+	list-style-image: url(../IMAGES/Twitter.png);
+}
+
+.logo3{
+	list-style-image: url(../IMAGES/Youtube.png);
+}
